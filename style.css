@@ -366,7 +366,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 20px;
+        right: 150px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -1052,4 +1052,9 @@ h4 {
 
 .description {
     font-size: 25px;
+}
+
+.gap
+{
+   margin-right: 25px; 
 }
